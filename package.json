@@ -23,6 +23,7 @@
     "json": "^11.0.0",
     "mongodb": "^5.1.0",
     "mongoose": "^7.0.1",
+    "nodemon": "^2.0.21",
     "path": "^0.12.7",
     "puppeteer": "^19.7.4",
     "wokcommands": "^2.1.0"
