@@ -1,15 +1,15 @@
-[0311/233857.186:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for posnwu.xyz failed:
+[0312/091831.724:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for posnwu.xyz failed:
 ----- Certificate i=0 (CN=*.vistec.ac.th,O=Vidyasirimedhi Institute of Science and Technology,L=Wang Chan District,ST=Rayong,C=TH) -----
 ERROR: Time is after notAfter
 
 
-[0311/233857.186:ERROR:ssl_client_socket_impl.cc(992)] handshake failed; returned -1, SSL error code 1, net_error -200
-[0311/233900.648:ERROR:ssl_client_socket_impl.cc(992)] handshake failed; returned -1, SSL error code 1, net_error -200
-[0311/233900.653:ERROR:ssl_client_socket_impl.cc(992)] handshake failed; returned -1, SSL error code 1, net_error -200
-[0311/233900.653:ERROR:ssl_client_socket_impl.cc(992)] handshake failed; returned -1, SSL error code 1, net_error -200
-[0311/233901.118:INFO:CONSOLE(109060)] "DEPRECATED: This filename doesn't follow the convention, use bootstrap-datepicker.en-CA.js instead.", source: https://posnwu.xyz/assets/application-6c8692c812c4b415e649cf6c56f0ceae41c87963c2d5dbfd7f1488d2a71ef987.js (109060)
-[0311/233901.118:INFO:CONSOLE(109060)] "DEPRECATED: The language code "kh" is deprecated and will be removed in 2.0. For Khmer support use "km" instead.", source: https://posnwu.xyz/assets/application-6c8692c812c4b415e649cf6c56f0ceae41c87963c2d5dbfd7f1488d2a71ef987.js (109060)
-[0311/233901.118:INFO:CONSOLE(109060)] "DEPRECATED: The language code "kr" is deprecated and will be removed in 2.0. For korean support use "ko" instead.", source: https://posnwu.xyz/assets/application-6c8692c812c4b415e649cf6c56f0ceae41c87963c2d5dbfd7f1488d2a71ef987.js (109060)
-[0311/233901.118:INFO:CONSOLE(109060)] "DEPRECATED: This language code "rs-latin" is deprecated (invalid serbian language code) and will be removed in 2.0. For Serbian latin support use "sr-latin" instead.", source: https://posnwu.xyz/assets/application-6c8692c812c4b415e649cf6c56f0ceae41c87963c2d5dbfd7f1488d2a71ef987.js (109060)
-[0311/233901.118:INFO:CONSOLE(109060)] "DEPRECATED: This language code "rs" is deprecated (invalid serbian language code) and will be removed in 2.0. For Serbian support use "sr" instead.", source: https://posnwu.xyz/assets/application-6c8692c812c4b415e649cf6c56f0ceae41c87963c2d5dbfd7f1488d2a71ef987.js (109060)
-[0311/233901.127:INFO:CONSOLE(5459)] "Uncaught SyntaxError: Unexpected token '&'", source: https://posnwu.xyz/main/list (5459)
+[0312/091831.726:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0312/091835.184:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0312/091835.184:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0312/091835.186:ERROR:ssl_client_socket_impl.cc(985)] handshake failed; returned -1, SSL error code 1, net_error -200
+[0312/091835.644:INFO:CONSOLE(109060)] "DEPRECATED: This filename doesn't follow the convention, use bootstrap-datepicker.en-CA.js instead.", source: https://posnwu.xyz/assets/application-6c8692c812c4b415e649cf6c56f0ceae41c87963c2d5dbfd7f1488d2a71ef987.js (109060)
+[0312/091835.644:INFO:CONSOLE(109060)] "DEPRECATED: The language code "kh" is deprecated and will be removed in 2.0. For Khmer support use "km" instead.", source: https://posnwu.xyz/assets/application-6c8692c812c4b415e649cf6c56f0ceae41c87963c2d5dbfd7f1488d2a71ef987.js (109060)
+[0312/091835.644:INFO:CONSOLE(109060)] "DEPRECATED: The language code "kr" is deprecated and will be removed in 2.0. For korean support use "ko" instead.", source: https://posnwu.xyz/assets/application-6c8692c812c4b415e649cf6c56f0ceae41c87963c2d5dbfd7f1488d2a71ef987.js (109060)
+[0312/091835.644:INFO:CONSOLE(109060)] "DEPRECATED: This language code "rs-latin" is deprecated (invalid serbian language code) and will be removed in 2.0. For Serbian latin support use "sr-latin" instead.", source: https://posnwu.xyz/assets/application-6c8692c812c4b415e649cf6c56f0ceae41c87963c2d5dbfd7f1488d2a71ef987.js (109060)
+[0312/091835.644:INFO:CONSOLE(109060)] "DEPRECATED: This language code "rs" is deprecated (invalid serbian language code) and will be removed in 2.0. For Serbian support use "sr" instead.", source: https://posnwu.xyz/assets/application-6c8692c812c4b415e649cf6c56f0ceae41c87963c2d5dbfd7f1488d2a71ef987.js (109060)
+[0312/091835.913:INFO:CONSOLE(8096)] "Uncaught SyntaxError: Unexpected token '&'", source: https://posnwu.xyz/main/list (8096)

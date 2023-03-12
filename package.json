@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/xHexlabx/Kimslick-2.0#readme",
   "dependencies": {
+    "chromium": "^3.0.3",
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3",
     "json": "^11.0.0",
