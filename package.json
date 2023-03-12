@@ -1,0 +1,32 @@
+{
+  "name": "kimslick-2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xHexlabx/Kimslick-2.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xHexlabx/Kimslick-2.0/issues"
+  },
+  "homepage": "https://github.com/xHexlabx/Kimslick-2.0#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "docker": "^1.0.0",
+    "dotenv": "^16.0.3",
+    "json": "^11.0.0",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.1",
+    "path": "^0.12.7",
+    "puppeteer": "^19.7.4",
+    "typescript": "^4.9.5",
+    "wokcommands": "^2.1.0"
+  }
+}
