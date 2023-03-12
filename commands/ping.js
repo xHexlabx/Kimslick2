@@ -17,7 +17,7 @@ module.exports = {
     // depending on how the user ran the command (legacy vs slash)
     console.log("pong");
     return {
-      content: "Pong!",
+      content: "Ponga!",
     }
   },
 }
