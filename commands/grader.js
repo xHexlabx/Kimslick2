@@ -7,7 +7,7 @@ const { CommandType , user } = require("wokcommands");
 async function posn(userdata , channel , user ) {
     
     const browser = await puppeteer.launch({
-        headless: true,
+        // headless: true,
         // executablePath: '\\node_modules\\chromium\\lib\\chromium\\chrome-win\\chrome.exe',
         ignoreHTTPSErrors: true,
         // userDataDir: '%userprofile%\\AppData\\Local\\Google\\Chrome\\User Data\\AllowCookies'
@@ -48,7 +48,8 @@ async function posn(userdata , channel , user ) {
       
     }
     browser.close()
-
+    
+    console.log(score);
     channel.send({
         content : `@${user.tag}\nได้คะแนน ${score}/${size * 100} \nคิดเป็น ${(score / size).toFixed(2)}% \nได้คะแนนเต็ม ${completed} ข้อ / ${size} ข้อ`
 
