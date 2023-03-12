@@ -8,7 +8,7 @@ async function posn(userdata , channel , user ) {
     
     const browser = await puppeteer.launch({
         headless: true,
-        executablePath: '\\..\\node_modules\\chromium\\lib\\chromium\\chrome-win\\chrome.exe',
+        // executablePath: '\\node_modules\\chromium\\lib\\chromium\\chrome-win\\chrome.exe',
         ignoreHTTPSErrors: true,
         // userDataDir: '%userprofile%\\AppData\\Local\\Google\\Chrome\\User Data\\AllowCookies'
       })
